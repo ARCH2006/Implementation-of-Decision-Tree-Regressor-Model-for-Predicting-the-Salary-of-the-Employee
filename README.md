@@ -63,7 +63,7 @@ dt.predict([[5,6]])
 
 ## Output:
 ```
-head() for salary
+head() for salary:
 ```
 ![Screenshot 2024-10-10 150731](https://github.com/user-attachments/assets/c4920c18-f11d-41f5-b3d1-f1fc2dfaaae6)
 ```
