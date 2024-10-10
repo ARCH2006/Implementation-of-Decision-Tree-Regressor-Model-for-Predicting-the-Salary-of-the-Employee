@@ -20,7 +20,7 @@ Program to implement the Decision Tree Regressor Model for Predicting the Salary
 Developed by: ARCHANA S
 RegisterNumber:212223040019
 import pandas as pd
-
+*/
 data=pd.read_csv("C:/Users/SEC/Downloads/Salary.csv")
 
 data.head()
@@ -53,7 +53,7 @@ r2=metrics.r2_score(y_test,y_pred)
 r2
 
 dt.predict([[5,6]])
-*/
+
 ```
 
 ## Output:
